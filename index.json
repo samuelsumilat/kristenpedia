@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "category": "Umum",
+      "articles": [
+        { "title": "Beranda", "file": "markdown/beranda.md" }
+      ]
+    },
+    {
+      "category": "Artikel Khusus",
+      "articles": [
+        { "title": "Mesias", "file": "mesias/mesias.md" },
+        { "title": "Sidang Ilahi", "file": "sidang_ilahi/sidang_ilahi.md" }
+      ]
+    }
+  ]
+}
